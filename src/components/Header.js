@@ -7,7 +7,7 @@ export default function Header() {
             <nav className="fixed-header">
                 <div className="container nav-flex">
                     <div className="logo">
-                        <a href="/"><img src='../assets/img/logo.svg' alt="logo" /></a>
+                        <a href="/"><img src="../assets/img/vpnlogo.svg" alt="logo" /></a>
                     </div>
                     <input type="checkbox" id="nav" className="hidden" />
                     <label htmlFor="nav" className="nav-open"><i></i><i></i><i></i></label>

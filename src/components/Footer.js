@@ -8,7 +8,7 @@ export default function Footer() {
                 <div className="row">
                     <div className="col-12 col-lg-4">
                         <a href="/">
-                            <img className="footer-logo" src="../assets/img/logo.svg" alt="logo" width="30" />
+                            <img className="footer-logo" src="../assets/img/vpnlogo.svg" alt="logo" width="30" />
                         </a>
                         <p className="footer-description"><span>LaslesVPN </span>is a private virtual network that<br />has unique features and has high security.</p>
                         <ul className="footer-socialmedia">
